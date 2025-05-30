@@ -1,0 +1,6 @@
+[submodule "microservices/ems-comment-service"]
+	path = microservices/ems-comment-service
+	url = https://github.com/MonicaBaldner/ems-comment-service.git
+[submodule "microservices/ems-moderation-service"]
+	path = microservices/ems-moderation-service
+	url = https://github.com/MonicaBaldner/ems-moderation-service.git
